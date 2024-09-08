@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vanshika-Modi
-- 👀 I’m interested in coding
+- 👀 I’m interested in Game development,Internet of Things
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vanshikamodi2007@gmail.com
